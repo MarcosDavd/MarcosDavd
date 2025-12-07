@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/MarcosDavd/MarcosDavd/blob/main/media/tux-gif.gif" alt="Tux" style="max-width: 100%; height: auto;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDavd&include_forks=true&bg_color=00000000">
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcosDavd)](https://github.com/MarcosDavd/github-readme-stats)
 </div>
 
 
