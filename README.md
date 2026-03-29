@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDavd&layout=donut&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
-
+<h2 align="center">📊 Github Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDavd&langs_count=10&theme=dark&layout=compact" alt="Top Languages"/>
+</p>
 </div>
