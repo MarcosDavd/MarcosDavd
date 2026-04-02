@@ -7,6 +7,6 @@
 <div align="center">
 <h2 align="center">📊 Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDavd&langs_count=10&theme=dark&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosDavd&layout=compact&theme=dark"/>
 </p>
 </div>
