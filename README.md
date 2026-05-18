@@ -86,8 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MarcosDavd/MarcosDavd/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
-  <img src="https://raw.githubusercontent.com/MarcosDavd/MarcosDavd/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosDavd&layout=compact&theme=dark"/> <br>
 </div>
 
 ###
