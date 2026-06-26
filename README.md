@@ -29,13 +29,13 @@
 
 ###
 
-<h3 align="left">I'm David from  Argentina<br>- 🛠️ Currently working on: Real-world Full-Stack applications for local businesses and clients, focusing on scalable web solutions.<br><br>- 📚 I'm currently learning: Modern cloud infrastructure (Kubernetes & advanced Docker deployments) and polishing my Full-Stack skills with React and Python.<br>- ⚡ In my free time: I play guitar, experiment with Linux-based systems, or learn about the life of Jesus.</h3>
+<h3 align="left">I'm David from Argentina<br>- 🛠️ Currently working on: Real-world Full-Stack applications for local businesses and clients, focusing on scalable web solutions.<br><br>- 📚 I'm currently learning: Modern cloud infrastructure (Kubernetes & advanced Docker deployments) and polishing my Full-Stack skills with React and Python.<br>- ⚡ In my free time: I play guitar, experiment with Linux-based systems, or learn about the life of Jesus.</h3>
 
 ###
 
 ### 🛠️ Languages & Tools
 
-#### 💻 Lenguajes
+#### 💻 Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
-#### 🔧 Herramientas & Entornos
+#### 🚀 Frameworks & Environments
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
@@ -61,19 +61,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
+</div>
+
+#### 🔧 Tools & Infrastructure
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
 </div>
 
-#### 🗄️ Bases de Datos
+#### 🗄️ Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -91,5 +96,3 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosDavd&layout=compact&theme=dark"/> <br>
 </div>
-
-###
