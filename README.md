@@ -33,6 +33,13 @@
 
 ###
 
+### 👥 Academic Collaborations
+> ### 📁 [Ingenieria-de-software-2](https://github.com/0xsofia/Ingenieria-de-software-2)
+> Trabajo colaborativo desarrollado para el curso de Ingeniería de Software 2 de la UNLP (2026).
+> 
+> *   **Rol :** Fullstack developer.
+> *   **Stack :** React, Python (Flask), SQLAlchemy, PostgreSQL, Docker, JWT, Mercado Pago API & Telegram Bot API.
+
 ### 🛠️ Languages & Tools
 
 #### 💻 Languages
@@ -45,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
