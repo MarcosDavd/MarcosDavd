@@ -1,105 +1,141 @@
-<div align="center">
-  <img height="162" src="https://raw.githubusercontent.com/MarcosDavd/MarcosDavd/main/media/tux-gif.gif"  />
-</div>
-
-###
 
 <div align="center">
-  <a href="www.linkedin.com/in/david-matias-poma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=David%20Matias%20Poma&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/david.matias_?igsh=NHBwcTR6ejB6ZnJ2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=david.matias_&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+<img src="https://raw.githubusercontent.com/MarcosDavd/MarcosDavd/main/media/tux-gif.gif" width="240"/>
+
+# David Matias Poma
+
+### Full-Stack Developer • Computer Science Student @ UNLP 🇦🇷
+
+Building scalable web applications with modern technologies.
+
+<a href="https://www.linkedin.com/in/david-matias-poma" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-David%20Matias%20Poma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/david.matias_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@david.matias_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosDavd.MarcosDavd&"  />
-</div>
+# 👨‍💻 About Me
 
-###
+- 🎓 Computer Science student at **Universidad Nacional de La Plata (UNLP)**.
+- 💼 Passionate about developing **Full-Stack applications** focused on solving real-world problems.
+- ☁️ Currently learning **Cloud Infrastructure, Kubernetes and advanced Docker deployments**.
+- 🐧 Linux enthusiast and open-source lover.
+- 🎸 I enjoy playing guitar in my free time.
+- ✝️ Constantly learning about the life and teachings of Jesus.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+# 🚀 Featured Project
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 📁 Ingeniería de Software II
 
-###
+Collaborative software project developed for the **Ingenieria de Software II** course at **UNLP (2026)**.
 
-<h3 align="left">I'm David from Argentina<br>- 🛠️ Currently working on: Real-world Full-Stack applications for local businesses and clients, focusing on scalable web solutions.<br><br>- 📚 I'm currently learning: Modern cloud infrastructure (Kubernetes & advanced Docker deployments) and polishing my Full-Stack skills with React and Python.<br>- ⚡ In my free time: I play guitar, experiment with Linux-based systems, or learn about the life of Jesus.</h3>
+**Repository**
 
-###
+https://github.com/0xsofia/Ingenieria-de-software-2
 
-### 👥 Academic Collaborations
-> ### 📁 [Ingenieria-de-software-2](https://github.com/0xsofia/Ingenieria-de-software-2)
-> Trabajo colaborativo desarrollado para el curso de Ingeniería de Software 2 de la UNLP (2026).
-> 
-> *   **Rol :** Fullstack developer.
-> *   **Stack :** React, Python (Flask), SQLAlchemy, PostgreSQL, Docker, JWT, Mercado Pago API & Telegram Bot API.
+### My Role
 
-### 🛠️ Languages & Tools
+- Full-Stack Developer
 
-#### 💻 Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-</div>
+### Technologies
 
-#### 🚀 Frameworks & Environments
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-</div>
+- React
+- Flask
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- JWT Authentication
+- Mercado Pago API
+- Telegram Bot API
 
-#### 🔧 Tools & Infrastructure
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
-</div>
+---
 
-#### 🗄️ Databases
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
+# 🛠️ Tech Stack
 
-<h3 align="left">🔥   My Stats :</h3>
+## 💻 Languages
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
+
+---
+
+## 🚀 Frameworks
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+</p>
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Kubernetes
+- Cloud Infrastructure
+- CI/CD
+- Advanced Docker
+- React ecosystem
+- Python Backend Architecture
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcosDavd&layout=compact&theme=dark"/> <br>
 </div>
+
+---
+
+<div align="center">
+
+### 🤝 Thanks for visiting my profile!
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
+
