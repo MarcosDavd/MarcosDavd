@@ -12,18 +12,6 @@
 
 </div>
 
----
-
-## 👨‍💻 Sobre mí
-
-- 🎓 Estudiante avanzado de la Licenciatura en Informática — **Universidad Nacional de La Plata (UNLP)**.
-- ☕ Enfocado en desarrollo backend con **Java y Spring Boot**, con base full-stack real (React, Angular, Node.js).
-- ☁️ Aprendiendo actualmente **Spring Boot, CI/CD con Jenkins y SQL Server** en profundidad.
-- 🐧 Entusiasta de Linux y del open-source.
-- 🎸 Toco la guitarra en mi tiempo libre.
-- ✝️ Sigo aprendiendo sobre la vida y las enseñanzas de Jesús.
-
----
 
 ## 🚀 Proyectos destacados
 
