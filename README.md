@@ -6,8 +6,6 @@
 
 ### Backend Developer (Java & Spring Boot) · Full-Stack · Estudiante de Informática — UNLP 🇦🇷
 
-Construyendo aplicaciones web escalables con tecnologías modernas.
-
 <a href="https://www.linkedin.com/in/david-matias-poma" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-David%20Matias%20Poma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -99,11 +97,7 @@ Construyendo una API REST con Spring Boot + JPA/Hibernate + Docker para sumar ex
 ---
 
 ## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDavd&layout=compact&theme=dark"/>
-</div>
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosDavd&langs_count=4&theme=dark)
 ---
 
 <div align="center">
